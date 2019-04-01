@@ -41,7 +41,7 @@ wiki.hist:
 * Basic Unix Wiki text file word count
  
 wiki.nextwords:
-* Basic Unix Wiki text file double line tokens for counting bigrams
+* Basic Unix Wiki text file tokens for counting bigrams
  
 wiki.txt:
 * Basi Unix basic text file of the original Wiki
