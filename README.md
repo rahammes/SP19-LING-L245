@@ -35,17 +35,17 @@ spellCheck.py:
 * Python final spell checker code
 
 wiki.bigrams:
-* Basic Unix bigrams results from the Wiki 
+* Basic Unix Wiki text file bigrams results 
 
 wiki.hist:
-* The word count from the Unix tutorial
+* Basic Unix Wiki text file word count
  
 wiki.nextwords:
-* Tokens from the wiki text from the Unix tutorial
+* Basic Unix Wiki text file double line tokens for counting bigrams
  
 wiki.txt:
-* The broken down wiki text from the Unix tutorial
+* Basi Unix basic text file of the original Wiki
  
 wiki.words:
-* Tokens from the wiki text from the Unix tutorial
+* Basic Unix Wiki text file tokens
  
